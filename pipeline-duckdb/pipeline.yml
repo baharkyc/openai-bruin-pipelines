@@ -1,0 +1,3 @@
+name: openai-test-duckdb
+schedule: "*/10 * * * *"
+catchup: false
